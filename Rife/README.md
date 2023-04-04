@@ -1,6 +1,6 @@
 # Real-Time Intermediate Flow Estimation for Video Frame Interpolation
 
-[Rife Paper](https://arxiv.org/abs/2011.06294)
+[Real-Time Intermediate Flow Estimation for Video Frame Interpolation](https://arxiv.org/abs/2011.06294)
 
 ## Inference
 
