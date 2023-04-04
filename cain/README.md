@@ -1,6 +1,6 @@
 # Channel Attention Is All You Need for Video Frame Interpolation
 
-[CAIN Paper](https://ojs.aaai.org/index.php/AAAI/article/view/6693)
+[Channel Attention Is All You Need for Video Frame Interpolation](https://ojs.aaai.org/index.php/AAAI/article/view/6693)
 
 ## Inference
 
