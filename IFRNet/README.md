@@ -1,6 +1,6 @@
 # IFRNet: Intermediate Feature Refine Network for Efficient Frame Interpolation
 
-[IFRNet Paper](https://arxiv.org/abs/2205.14620)
+[IFRNet: Intermediate Feature Refine Network for Efficient Frame Interpolation](https://arxiv.org/abs/2205.14620)
 
 Existing flow-based frame interpolation methods almost all first estimate or model intermediate optical flow, and then use flow warped context features to synthesize target frame. However, they ignore the mutual promotion of intermediate optical flow and intermediate context feature. Also, their cascaded architecture can substantially increase the inference delay and model parameters, blocking them from lots of mobile and real-time applications.A single encoder-decoder based IFRNet for compactness and fast inference.
 
