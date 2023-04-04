@@ -1,6 +1,6 @@
 # Extracting Motion and Appearance via Inter-Frame Attention for Efficient Video Frame Interpolation 
 
-[EMA-VFI Paper](https://arxiv.org/abs/2303.00440)
+[# Extracting Motion and Appearance via Inter-Frame Attention for Efficient Video Frame Interpolation](https://arxiv.org/abs/2303.00440)
 
 ## Inference
 
