@@ -1,4 +1,4 @@
-# realtime_videoframeinterpolation
+# Realtime Video Frame Interpolation Experiments and Analysis
 
 #### Data Used:
 
