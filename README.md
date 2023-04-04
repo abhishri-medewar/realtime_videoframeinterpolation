@@ -19,6 +19,6 @@ The data that is used is at the following location: **/storage/dataset/vfi_mos/i
 5. [IFRNet](https://github.com/ltkong218/IFRNet)
 6. [RIFE](https://github.com/megvii-research/ECCV2022-RIFE)
 
-Pretrained models used for generating result for CAIN, EMAVFI, FLAVR, IFRNet and RIFE. Film_L1_lite_steps2148000 and Film_Style_steps156000 models used for FILM.
+Pretrained models used for generating result for CAIN, EMAVFI, FLAVR, IFRNet and RIFE. Film_L1_lite_steps2148000 and Film_Style_steps156000 trained models used for FILM.
 
 
