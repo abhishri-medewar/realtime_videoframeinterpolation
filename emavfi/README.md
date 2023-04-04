@@ -7,13 +7,13 @@
 1. Run the following script to generate result for Vimeo90k MOS Data.
 
 ``` 
-python get_results_vimeo90k_mos.py --data_root <path to vimeo90k mos data> --model_path <path to emavfi pretrained model> 
+python get_results_vimeo90k_mos.py --data_root <path to vimeo90k mos data> --model <path to emavfi pretrained model> 
 ```
  
 2. Run the following script to generate result for Xiph MOS Data.
 
 ``` 
-python get_results_xiph_mos.py --data_root <path to xiph mos data> --model_path <path to emavfi pretrained model> 
+python get_results_xiph_mos.py --data_root <path to xiph mos data> --model <path to emavfi pretrained model> 
 ```
 
 ## References
